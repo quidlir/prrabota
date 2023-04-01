@@ -1,0 +1,156 @@
+body{background-color: darkgrey
+}
+h1 {
+    color: black;
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 2px 2px 4px white;
+}
+ul {
+color:rgb(128, 255, 0);
+font-size: 20px;
+
+}
+.text-1 {
+color: crimson
+
+}
+.text-2 {
+color: black
+
+}
+.text-3 {
+color: darkblue
+
+}
+.text-4 {
+color: blueviolet
+
+}
+.text-5 {
+color: darkgreen
+
+}
+.text-6 {
+color: lightseagreen
+
+}
+.text-7 {
+color: aqua
+
+}
+.text-8 {
+color: cornflowerblue
+
+}
+.text-9 {
+   color: aquamarine
+    
+}
+.tetx-1 {
+    font-size: 22px;
+    
+}
+.image-1 {
+    width: 500px;
+    height: 500px;
+}
+
+.linb {
+    text-decoration: none;
+    font-size: 20px
+}
+.tt1{
+    color: darkred;
+font-size: 40px;
+text-shadow: 2px 2px 4px white;}
+.ttt1{
+    color: blue;
+    font-size: 20px;
+    
+}
+.tt2{
+    color: rgb(235, 220, 19);
+font-size: 40px;
+text-shadow: 2px 2px 4px white;}
+.ttt2{
+    color: rgb(51, 129, 43);
+    font-size: 20px;
+    
+}
+.img3{
+    width: 400px;
+    height: 400px;
+} 
+.tt3{
+    color: rgb(74, 108, 110);
+font-size: 40px;
+text-shadow: 2px 2px 4px white;}
+.ttt3{
+    color: rgb(63, 91, 216);
+    font-size: 20px
+}
+.img3{
+    width: 650px;
+    height: 400px;
+    text-shadow: 2px 2px 4px white;
+}
+.tt4{
+    color: blueviolet;
+font-size: 40px;
+text-shadow: 2px 2px 4px white;}
+.ttt4{
+    color: rgb(91, 63, 216);
+    font-size: 20px
+}
+.img4{
+    width: 650px;
+    height: 350px;}
+.tt5{
+    color: tomato;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px white;
+}
+    .ttt5{ 
+    color:darkblue;
+    font-size: 20px
+    }
+.img5{
+    width: 400px;
+    height: 400px;}  
+ .tt6{
+    color:salmon;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px white;
+ }
+    .ttt6{ 
+    color: brown;
+    font-size: 20px
+    }
+.img6{
+    width: 600px;
+    height: 350px;}  
+.tt7{
+    color:palevioletred;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px white;
+     }
+.ttt7{ 
+    color:lime;
+    font-size: 20px
+        }
+.img7{
+    width: 600px;
+    height: 350px;}  
+.tt8{
+    color:darkred;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px white;
+ }
+.ttt8{ 
+    color: navy;
+    font-size: 20px
+}
+.img8{
+    width: 600px;
+    height: 400px;}  
